@@ -26,7 +26,7 @@ public class AT1 {
         boolean par = num % 2 == 0;
         
         
-        System.out.println("O número é "+ par);
+        System.out.println("O número é par? "+ par);
         
         
             
